@@ -20,3 +20,26 @@
 <br>
 
 #### Did this mainly to learn javafx and javafxml. This is my first gui application of java.
+
+## Some Screenshots
+
+#### Welcome Page and selection
+<img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(111).png" width = "340"/> <img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(193).png" width = "340"/>
+
+#### Encryption
+<img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(194).png" width = "340"/>    <img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(251).png" width = "340"/>    <img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(344).png" width = "340"/>
+
+#### Decryption
+<img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(345).png" width = "340"/>    <img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(346).png" width = "340"/>    <img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(347).png" width = "340"/>
+
+#### Error Handling
+<img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(354).png" width = "340"/>  
+
+#### When it was not encrypted using that integer
+<img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(356).png" width = "340"/><img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(357).png" width = "340"/>
+
+<br>
+### Proof of 2 completely different values for 2 different integers 
+##### The tests are for the string "Hello"
+<img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Test%20Two%20values/1stTest.png" width = "340"/><img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Test%20Two%20values/Hello_for_34.png" width = "340"/>
+<img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Test%20Two%20values/2ndTest.png" width = "340"/><img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Test%20Two%20values/Hello_for_56.png" width = "340"/>
