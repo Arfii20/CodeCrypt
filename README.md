@@ -39,7 +39,7 @@
 <img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(356).png" width = "340"/><img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Screenshot%20(357).png" width = "340"/>
 
 
-### Proof of 2 completely different values for 2 different integers 
+## Proof of 2 completely different values for 2 different integers 
 ##### The tests are for the string "Hello"
 <img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Test%20Two%20values/1stTest.png" width = "340"/><img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Test%20Two%20values/Hello_for_34.png" width = "340"/>
 <img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Test%20Two%20values/2ndTest.png" width = "340"/><img src="https://github.com/Arfii20/CodeCrypt/blob/main/Encryption/Snippets/Test%20Two%20values/Hello_for_56.png" width = "340"/>
