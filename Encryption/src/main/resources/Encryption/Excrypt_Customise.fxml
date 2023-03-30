@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox id="uniqueNum" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="720.0" prefWidth="1280.0" style="-fx-background-color: #2b2b2b;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+    <effect>
+        <InnerShadow />
+    </effect>
+   <AnchorPane prefHeight="50.0" prefWidth="1281.0">
+      <children>
+         <Button id="encryptContinueButton" fx:id="backFromContinueEncrypt" contentDisplay="CENTER" layoutX="44.0" layoutY="2.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="Back" textAlignment="JUSTIFY" textFill="#ffc300">
+            <font>
+               <Font name="MV Boli" size="18.0" />
+            </font>
+         </Button>
+      </children>
+      <VBox.margin>
+         <Insets top="-120.0" />
+      </VBox.margin>
+   </AnchorPane>
+   <Region prefHeight="180.0" prefWidth="200.0">
+      <VBox.margin>
+         <Insets />
+      </VBox.margin>
+   </Region>
+    <Label text="Want your own unique Encryption??" textFill="#ffbf00">
+        <VBox.margin>
+            <Insets bottom="9.0" left="9.0" right="9.0" />
+        </VBox.margin>
+        <font>
+            <Font name="MV Boli" size="20.0" />
+        </font>
+    </Label>
+    <TextField alignment="CENTER" focusTraversable="false" maxWidth="-Infinity" prefHeight="25.0" prefWidth="420.0" promptText="Leave Empty if you dont want unique encryption">
+        <font>
+            <Font name="MV Boli" size="11.773585319519043" />
+        </font>
+    </TextField>
+    <Label text="Enter any Integer and then click on the button below" textFill="#ffbf00">
+        <font>
+            <Font name="MV Boli" size="16.0" />
+        </font>
+        <VBox.margin>
+            <Insets top="9.0" />
+        </VBox.margin>
+    </Label>
+   <Region prefHeight="100.0" prefWidth="200.0" />
+   <Button id="encryptContinueButton" fx:id="encryptContinue" contentDisplay="CENTER" mnemonicParsing="false" style="-fx-background-color: transparent;" text="Continue" textAlignment="JUSTIFY" textFill="#ffc300">
+      <font>
+         <Font name="MV Boli" size="36.0" />
+      </font>
+   </Button>
+</VBox>
