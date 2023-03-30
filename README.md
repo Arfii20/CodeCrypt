@@ -1,4 +1,4 @@
-# Encryption-Decryption
+# CodeCrypt
 
 #### Made an encryption and decryption program using java and javafx
 ### I made my own algorithm which asks for an integer (any integer) from the user and uses that to encrypt
